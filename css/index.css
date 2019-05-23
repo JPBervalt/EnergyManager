@@ -1,0 +1,56 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background-image:url("../img/fundo.png")
+}
+#login{
+	width:400px;
+	height:350px;
+	border:1px solid white;
+	border-radius:15px;
+	background-color:white;
+	left:50%;
+	top:50%;
+	margin-left:-200px;
+	margin-top:-175px;
+	position:absolute;
+}
+
+#imgLogin{
+	width:200px;
+	margin-bottom:10px;
+}
+
+.inputs{
+	border-radius:5px;
+	padding:5px;
+	width:250px;
+	margin-top:20px;
+	height:20px;
+}
+
+.inputs:focus{
+	background-color:#FFFACD;
+}
+
+.labels{
+	font-size:20px;
+	font-family:Berlin Sans FB, Futura MD BT;
+	margin-right:20px;
+}
+#botoes{
+	margin: auto;
+	width: 55%;
+}
+.botoes{
+	background-color:transparent;
+	border:0px transparent solid;
+	margin-top:50px;
+}
+
+.imgbotoes{
+	width:100px;
+}
+

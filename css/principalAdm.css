@@ -1,0 +1,60 @@
+#gastors{
+	margin-top:10px;
+    border: 3px solid #000;
+    width: 800px;
+    height: 150px;
+	border-color:#00ad02;
+	margin-top:75px;
+	border-radius:10px;
+}
+
+#gastotot{
+	margin-top:10px;
+    border: 3px solid #000;
+    width: 800px;
+    height: 150px;
+	border-color:#00ad02;
+	margin-top:75px;
+	border-radius:10px;
+	font:Century Gothic;
+}
+
+
+#gastotit{
+    text-align: center;
+    margin-top:30px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 15px;
+	font:Century Gothic;	
+}
+
+#spangasto{
+    background-color: white;
+	color:#00ad02;
+	font-size:30px;
+	font:Century Gothic;
+}
+
+#contGasto{
+	margin-top:10px;
+	font:Century Gothic;
+	color:#00ad02;
+	font-size:40px;
+}
+
+#bandeira{
+	margin-left:60%;
+	margin-top:-35%;
+}
+
+#precokwh{
+	margin-top:-28%;
+	margin-left:60%;
+}
+
+#retornaValorKwh{
+	color:#00ad02;
+	font-size:40px;
+	font: Calibri;
+}

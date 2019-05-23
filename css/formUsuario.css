@@ -1,0 +1,30 @@
+﻿h1,h2{
+	font-family:"Century Gothic";
+	margin-top:50px;
+	border-bottom: 1px solid gray;
+}
+
+table, tr, td{	
+	padding:10px 10px 10px 0px;
+	font-family:"Century Gothic";
+	color: green;
+}
+
+.botao{
+	background-color:transparent;
+	border:0px;
+}
+
+.inputs{
+	padding:5px;
+	border-radius:5px;
+	width:200px;
+}
+
+.inputs:focus{
+	background-color: #FFFACD;
+}
+#lata{
+	height:20px;
+	width:20px;
+}

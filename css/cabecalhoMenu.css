@@ -1,0 +1,58 @@
+*{
+	margin:0px;
+	padding:0px;
+	background-color:;
+}
+header{
+	width:100%;
+	height:50px;
+	background-color:#f2f2f2;
+}
+
+#lista{
+	float:left;
+	margin-top:10px;
+}
+
+.itens{
+	display:inline;
+	list-style:none;
+	margin-left:40px;
+}
+.itens a {
+	text-decoration:none;
+	color:#00ad02;
+	font-size:25px;
+	font-family:Calibri;
+	margin-left:60px;
+	
+}
+
+.itens a:hover{
+	color:black;
+	transition:0.5s;
+}
+
+
+#logo{
+	margin-left:43%;
+}
+
+#configs{
+	width:60px;
+	height:60px;
+	float:right;
+	margin-top:25px;
+	margin-right:10px;
+}
+
+#logout{
+	width:50px;
+	height:50px;
+	float:right;
+	margin-top:30px;
+	
+}
+
+
+
