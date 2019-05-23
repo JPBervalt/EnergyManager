@@ -2,9 +2,11 @@
 	margin:0px;
 	padding:0px;
 }
-body{
-	background-image:url("../img/fundo.png")
+
+body {
+	background-color:#EE82EE;
 }
+
 #login{
 	width:400px;
 	height:350px;
@@ -41,12 +43,10 @@ body{
 	margin-right:20px;
 }
 #botoes{
-	margin: auto;
-	width: 55%;
+	margin-left: 35%;
 }
 .botoes{
-	background-color:transparent;
-	border:0px transparent solid;
+ 	width: 100px;
 	margin-top:50px;
 }
 

@@ -3,38 +3,30 @@
 <head>
 <title>:::Bem vindo - Login</title>
 <meta charset="UTF-8">
-<link rel="stylesheet" 
-href="css/index.css">
+<link rel="stylesheet" href="css/index.css">
 </head>
 
 <body>
 <div id="login">
 	<center>
-		<img id="imgLogin" src="img/lampada.png">
+		<img id="imgLogin" src="img/logo.jpg">
 	</center>
 	
-	<form action="php/efetuaLogin.php" 
-	method="POST">
+	<form action="php/connect.php" method="POST">
 	<table>
 		<tr>
-		<td><label class="labels">E-mail:</label></td>
-		<td><input type="text" name="email" 
-		placeholder="email@dominio.com" class="inputs">
+		<td><label class="labels">Username:</label></td>
+		<td><input type="text" name="username" class="inputs">
 		</td>		
 		</tr>
 		<tr>
-		<td><label class="labels">Senha:</label></td>
-		<td><input type="password" name="senha" 
-		placeholder="Senha de usuário" class="inputs">
+		<td><label class="labels">Password:</label></td>
+		<td><input type="password" name="password" class="inputs">
 		</td>
 		</tr>
 	</table>
 		<div id=botoes>
-		<button type="submit" class="botoes">
-		<img src="img/entrar.png" class="imgbotoes"></button>
-		<button type="reset" class="botoes">
-		<img src="img/limpar.png" class="imgbotoes"></button>
-		</div>
+		<button type="submit" class="botoes">ENTRAR</button>
 	</form>
 </div>
 

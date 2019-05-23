@@ -1,0 +1,63 @@
+a
+{
+    border-right: 1px solid rgba(0,0,0,.2);
+    padding: 3vh;
+    display: inline;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+}
+
+#imgLog {
+	padding-right: 50px;
+    padding-left: 40px;
+	padding-top: -10px;
+}
+
+a#log
+{
+    
+	
+}
+
+a:hover
+{
+    cursor: pointer;
+}
+
+#imgLog{
+	height: 100%;
+}
+
+.svg
+{
+    width: 30px;
+}
+
+.lateral
+{
+    border: none;
+    font-size: 15px;
+    float: right;
+    padding: 20px;
+}
+
+a#agt:hover
+{
+	border-bottom : 3px solid green;
+}
+
+a#aud:hover
+{
+	border-bottom : 3px solid red;
+}
+
+a#sac:hover
+{
+	border-bottom : 3px solid yellow;
+}
+
+a#ges:hover
+{
+	border-bottom : 3px solid purple;
+}

@@ -1,0 +1,17 @@
+body {
+	background-image: url("../img/background.jpg");
+	top: 0;
+}
+
+head {
+	margin-top: -20px;
+}
+
+* {
+	top: 0;
+	left: 0;
+}
+
+h1 {
+	margin-top: 20%;
+}
