@@ -1,0 +1,12 @@
+1 - Abra o XAMPP;
+2 - Clique nos dois primeiros botões START, que correspondem ao APACHE e MySQL;
+3 - Baixe o projeto no GitHub;
+4 - Navegue no explorer do windows na rota: C:\xampp\htdocs;
+5 - Arraste o projeto até para dentro da pasta htdocs;
+6 - Abra o navegador, e digite: localhost/nome-do-projeto;
+7 - Tente se logar, usuário e senha são admin, admin. Caso não consiga, continue o tutorial.
+8 - Vá até o navegador e digite localhost/phpmyadmin;
+9 - Crie um banco de nome limp;
+10 - Importe o arquivo limp.sql na pasta do projeto do limp para dentro do banco de dados.
+11 - Clique em executar;
+12 - Tente novamente;
